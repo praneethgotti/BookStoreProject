@@ -1,0 +1,7 @@
+C:\Users\tuf10109\Downloads\project2\BookLibrary\bin\Release\BookLibrary.dll
+C:\Users\tuf10109\Downloads\project2\BookLibrary\bin\Release\BookLibrary.pdb
+C:\Users\tuf10109\Downloads\project2\BookLibrary\bin\Release\Utilities.dll
+C:\Users\tuf10109\Downloads\project2\BookLibrary\bin\Release\Utilities.pdb
+C:\Users\tuf10109\Downloads\project2\BookLibrary\obj\Release\BookLibrary.csprojResolveAssemblyReference.cache
+C:\Users\tuf10109\Downloads\project2\BookLibrary\obj\Release\BookLibrary.dll
+C:\Users\tuf10109\Downloads\project2\BookLibrary\obj\Release\BookLibrary.pdb
